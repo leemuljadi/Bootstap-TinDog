@@ -1,1 +1,1 @@
-# Bootstrap-TinDog
+# Bootstrap TinDog Design
